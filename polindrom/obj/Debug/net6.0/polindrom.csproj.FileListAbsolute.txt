@@ -1,0 +1,15 @@
+D:\lesson_GB\C#\DZ3\polindrom\bin\Debug\net6.0\polindrom.exe
+D:\lesson_GB\C#\DZ3\polindrom\bin\Debug\net6.0\polindrom.deps.json
+D:\lesson_GB\C#\DZ3\polindrom\bin\Debug\net6.0\polindrom.runtimeconfig.json
+D:\lesson_GB\C#\DZ3\polindrom\bin\Debug\net6.0\polindrom.dll
+D:\lesson_GB\C#\DZ3\polindrom\bin\Debug\net6.0\polindrom.pdb
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\polindrom.csproj.AssemblyReference.cache
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\polindrom.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\polindrom.AssemblyInfoInputs.cache
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\polindrom.AssemblyInfo.cs
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\polindrom.csproj.CoreCompileInputs.cache
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\polindrom.dll
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\refint\polindrom.dll
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\polindrom.pdb
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\polindrom.genruntimeconfig.cache
+D:\lesson_GB\C#\DZ3\polindrom\obj\Debug\net6.0\ref\polindrom.dll
