@@ -1,0 +1,15 @@
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\cuby.csproj.AssemblyReference.cache
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\cuby.GeneratedMSBuildEditorConfig.editorconfig
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\cuby.AssemblyInfoInputs.cache
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\cuby.AssemblyInfo.cs
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\cuby.csproj.CoreCompileInputs.cache
+D:\lesson_GB\C#\DZ3\cuby\bin\Debug\net6.0\cuby.exe
+D:\lesson_GB\C#\DZ3\cuby\bin\Debug\net6.0\cuby.deps.json
+D:\lesson_GB\C#\DZ3\cuby\bin\Debug\net6.0\cuby.runtimeconfig.json
+D:\lesson_GB\C#\DZ3\cuby\bin\Debug\net6.0\cuby.dll
+D:\lesson_GB\C#\DZ3\cuby\bin\Debug\net6.0\cuby.pdb
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\cuby.dll
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\refint\cuby.dll
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\cuby.pdb
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\cuby.genruntimeconfig.cache
+D:\lesson_GB\C#\DZ3\cuby\obj\Debug\net6.0\ref\cuby.dll
