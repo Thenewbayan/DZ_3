@@ -14,18 +14,22 @@ if (PolNumber)
     Console.WriteLine("Все хорошо, вы использовали только числа при вводе");
     int lenghtPol=pol.Length;
     int index=0;
-    if(index<(lenghtPol/2))
+    while(index<(lenghtPol/2))
     {
        if(pol[index]==pol[(lenghtPol-1)-index])
        {
             index++;
+            Console.WriteLine(index);
             coeff=0;
+            Console.WriteLine(coeff);
             return;
        }
        if(pol[index]!=pol[(lenghtPol-1)-index])
        {
          coeff--;
+         Console.WriteLine(index);
          index++;
+         Console.WriteLine(coeff);
          return;
        }
     }
